@@ -97,7 +97,7 @@ header nav .nav-btn a:hover {
 
 /* BANNER STARTS HERE */
 .banner {
-  background-image: url("/images/hero-image.png");
+  background-image: url("./images/hero-image.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
