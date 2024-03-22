@@ -268,7 +268,7 @@ header nav .nav-btn a:hover {
 /* CONSULTATION SECTION STARTS HERE */
 
 .consultation {
-  background-image: url("/images/business-bg-img.png");
+  background-image: url("./images/business-bg-img.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -427,7 +427,7 @@ header nav .nav-btn a:hover {
 /* FORM QUESTION SECTION STARTS HERE */
 
 .form-question {
-  background-image: url("/images/Artboard\ 1.png");
+  background-image: url("./images/Artboard\ 1.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
